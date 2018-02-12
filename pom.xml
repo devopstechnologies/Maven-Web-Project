@@ -131,7 +131,7 @@
             </build>
         </profile>
   </profiles>
-
+<!--
   <profiles>
     <profile>
       <id>sonar-coverage</id>
@@ -181,4 +181,5 @@
       </build>
     </profile>
   </profiles>
+  -->
 </project>
